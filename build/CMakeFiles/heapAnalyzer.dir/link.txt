@@ -1,0 +1,1 @@
+gcc  -Wall -ggdb   CMakeFiles/heapAnalyzer.dir/home/s1ckb017/Scrivania/MineThings/heapAnalyzer/src/tracepid.c.o CMakeFiles/heapAnalyzer.dir/home/s1ckb017/Scrivania/MineThings/heapAnalyzer/src/main.c.o CMakeFiles/heapAnalyzer.dir/home/s1ckb017/Scrivania/MineThings/heapAnalyzer/src/heapAnalyzer.c.o  -o /home/s1ckb017/Scrivania/MineThings/heapAnalyzer/bin/heapAnalyzer -rdynamic 

@@ -1,0 +1,3 @@
+/home/s1ckb017/Scrivania/MineThings/heapAnalyzer/build/CMakeFiles/edit_cache.dir
+/home/s1ckb017/Scrivania/MineThings/heapAnalyzer/build/CMakeFiles/rebuild_cache.dir
+/home/s1ckb017/Scrivania/MineThings/heapAnalyzer/build/CMakeFiles/heapAnalyzer.dir
